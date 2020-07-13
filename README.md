@@ -12,4 +12,5 @@ Our chosen subset of C language has following characteristics.
 
 ## To Run
 
-run _script.sh_
+run _script.sh_.  
+open _code.asm_ in emu8086.
